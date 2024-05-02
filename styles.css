@@ -1,0 +1,15 @@
+h1 {
+color: blue;
+}
+a:link {
+    color: brown;
+}
+a:visited {
+    color: rgb(0, 0, 0);
+}
+a:hover {
+    color: blue;
+}
+a:active {
+    color: aliceblue;
+}
