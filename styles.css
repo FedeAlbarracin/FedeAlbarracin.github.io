@@ -21,3 +21,8 @@ img {
 p {
     margin-left: 3%;
 }
+body{
+    background-image: url(/img/fondo.jpg);
+    background-size: cover;
+    background-position: center top;
+}
