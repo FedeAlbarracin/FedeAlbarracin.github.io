@@ -26,3 +26,6 @@ body{
     background-size: cover;
     background-position: center top;
 }
+.rotar{
+    transform: rotate(270deg);
+}
