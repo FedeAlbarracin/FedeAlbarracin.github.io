@@ -1,5 +1,6 @@
 h1 {
-color: blue;
+color: rgb(69, 147, 236);
+background-color: rgb(0, 0, 0); margin-right: 83%; padding-bottom: 1%;
 }
 a:link {
     color: brown;
